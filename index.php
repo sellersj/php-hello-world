@@ -10,6 +10,7 @@ echo "Hello World!";
 
 <ul>
  <li><a href="subdir/">subdir to test a dir listing</a></li>
+ <li><a href="subdir/sub.php">page in the subdir</a></li>
  <li><a href="logs-error.php/">logs an error</a></li>
  <li><a href="throws-error.php">throws an error</a></li>
 </ul>
